@@ -10,4 +10,6 @@ The user asks a yes–no question to the ball, and the program answers it.
 
 In `terminal` or `cmd`
 
-`ruby magic_ball.rb`
+```
+ruby magic_ball.rb
+```
